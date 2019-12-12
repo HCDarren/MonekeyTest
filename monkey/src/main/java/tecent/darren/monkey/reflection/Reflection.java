@@ -13,8 +13,7 @@ import static android.os.Build.VERSION.SDK_INT;
  * Date: 2019/12/12 4:47 PM
  * Description: 高版本反射问题
  * History:
- * <author>  <time>  <version>
- * darrenzeng 2019/12/12 1.0.0
+ * Version: 1.0.0
  */
 public class Reflection {
     private static final String TAG = "Reflection";

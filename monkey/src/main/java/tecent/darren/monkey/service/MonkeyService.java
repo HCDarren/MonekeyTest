@@ -15,8 +15,7 @@ import tecent.darren.monkey.util.ThreadUtil;
  * Date: 2019/12/12 3:41 PM
  * Description: monkey 执行的服务
  * History:
- * <author>  <time>  <version>
- * darrenzeng 2019/12/12 1.0.0
+ * Version: 1.0.0
  */
 public class MonkeyService extends Service {
     private EventFactory mEventFactory;

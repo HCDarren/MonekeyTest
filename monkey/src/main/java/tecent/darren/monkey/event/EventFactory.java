@@ -11,8 +11,7 @@ import java.util.Map;
  * Date: 2019/12/12 3:52 PM
  * Description: 事件工厂
  * History:
- * <author>  <time>  <version>
- * darrenzeng 2019/12/12 1.0.0
+ * Version: 1.0.0
  */
 public class EventFactory {
     private Map<Class, List<IEvent>> mRecycleEvents = new HashMap<>();

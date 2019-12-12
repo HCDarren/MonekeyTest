@@ -8,8 +8,7 @@ import android.util.Log;
  * Date: 2019/12/12 4:22 PM
  * Description: 线程工具类
  * History:
- * <author>  <time>  <version>
- * darrenzeng 2019/12/12 1.0.0
+ * Version: 1.0.0
  */
 public class ThreadUtil {
     public static final int INFINITE = -1;

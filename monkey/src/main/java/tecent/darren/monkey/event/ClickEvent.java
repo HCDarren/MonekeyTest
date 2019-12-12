@@ -16,8 +16,7 @@ import tecent.darren.monkey.util.ThreadUtil;
  * Date: 2019/12/12 3:50 PM
  * Description: 点击事件
  * History:
- * <author>  <time>  <version>
- * darrenzeng 2019/12/12 1.0.0
+ * Version: 1.0.0
  */
 public class ClickEvent extends AbstractEvent {
     private int mScreenWidth, mScreenHeight;

@@ -11,8 +11,7 @@ import java.lang.reflect.Method;
  * Date: 2019/12/12 4:22 PM
  * Description: 应用 Application 相关的工具类
  * History:
- * <author>  <time>  <version>
- * darrenzeng 2019/12/12 1.0.0
+ * Version: 1.0.0
  */
 public class ApplicationUtil {
 

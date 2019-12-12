@@ -6,8 +6,7 @@ package tecent.darren.monkey.event;
  * Date: 2019/12/12 3:51 PM
  * Description: 长按事件
  * History:
- * <author>  <time>  <version>
- * darrenzeng 2019/12/12 1.0.0
+ * Version: 1.0.0
  */
 public class LongClickEvent {
 }

@@ -6,8 +6,7 @@ package tecent.darren.monkey.exception;
  * Date: 2019/12/12 3:35 PM
  * Description: mokey sdk 初始化异常
  * History:
- * <author>  <time>  <version>
- * darrenzeng 2019/12/12 1.0.0
+ * Version: 1.0.0
  */
 public class MonkeyInitException extends RuntimeException{
     public MonkeyInitException(String message){

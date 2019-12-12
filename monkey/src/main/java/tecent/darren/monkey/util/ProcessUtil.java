@@ -11,8 +11,7 @@ import java.util.List;
  * Date: 2019/12/12 3:21 PM
  * Description: 进程工具类
  * History:
- * <author>  <time>  <version>
- * darrenzeng 2019/12/12 1.0.0
+ * Version: 1.0.0
  */
 public class ProcessUtil {
 

@@ -15,8 +15,7 @@ import tecent.darren.monkey.util.ProcessUtil;
  * Date: 2019/12/12 3:17 PM
  * Description: monkey 测试工具入口类
  * History:
- * <author> <time> <version>
- * darrenzeng 2019/12/12 1.0.0
+ * Version: 1.0.0
  */
 public class MonkeyTest {
     private static boolean mInit = false;
