@@ -34,7 +34,6 @@ public class ClickEvent extends AbstractEvent {
     public void dispatchEvent() {
         // 随机发送点击事件
 
-
         int downX = mRandom.nextInt(mScreenWidth);
         int downY = mRandom.nextInt(mScreenHeight);
 

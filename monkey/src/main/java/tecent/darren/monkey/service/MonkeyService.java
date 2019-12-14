@@ -4,6 +4,7 @@ import android.app.Service;
 import android.content.Intent;
 import android.os.IBinder;
 
+import tecent.darren.monkey.MonkeyTest;
 import tecent.darren.monkey.event.ClickEvent;
 import tecent.darren.monkey.event.EventFactory;
 import tecent.darren.monkey.event.IEvent;
@@ -38,6 +39,6 @@ public class MonkeyService extends Service {
                 click.dispatchEvent();
                 mEventFactory.recycleEvent(click);
             }
-        }, 500, 50);
+        }, MonkeyTest.getInstance().getMonkeyTimes(), 50);
     }
 }
